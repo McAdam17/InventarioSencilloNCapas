@@ -1,0 +1,17 @@
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Entidades.dll
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Negocios.dll
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Datos.dll
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Negocios.pdb
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\adanm\Desktop\InventarioNCapas\Presentacion\obj\Debug\Presentacion.ProductoNuevo.resources
